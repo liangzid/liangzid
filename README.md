@@ -45,6 +45,7 @@
 | 🧪 [**zhouyi**](https://github.com/liangzid/zhouyi) | A playful and philosophical implementation of divination using the ancient Chinese classic *Zhouyi* (易经). Reflects a blend of symbolic computation, randomness, and interpretation. |
 | 🔧 [**easy-collections**](https://github.com/liangzid/easy-collections) | A light-weight emacs package that encourages you to collect any fragmented important information in emacs (e.g., codes, paragraphs, outputs in terminal, and any others) into a single file. It is light-weight, quick, and non-interruptible.  |
 |[**.emacs.d**](https://github.com/liangzid/a.emacs.d)| My Emacs Configuration|
+|[**PolyU's Poster Theme**](https://github.com/liangzid/PolyU-Poster-Template)| An unofficial latex template of posters for students who are in PolyU.|
 
 ---
 
