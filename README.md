@@ -30,6 +30,7 @@
 
 | Project | Venue | Tags | Description |
 |--------|--------|------|-------------|
+| [**ArxivRollBench**](https://github.com/liangzid/ArxivRoll) | Preprint | ![](https://img.shields.io/badge/Benchmark-red) ![](https://img.shields.io/badge/Evaluation-lightgrey) |  A (benchmark)[https://arxivroll.moreoverai.com] that quantifies how much of a model’s score is genuine versus “cheating” via data artifacts or shortcuts. |
 | 🚨 [**LoRA-sSecurity**](https://github.com/liangzid/LoRA-sSecurity) | ICML'25 | ![](https://img.shields.io/badge/LoRA-red) ![](https://img.shields.io/badge/Attack-orange) | Explores vulnerabilities introduced by LoRA-based fine-tuning, proposing both theoretical analysis and practical attacks. |
 | 🧠 [**LoRD-MEA**](https://github.com/liangzid/LoRD-MEA) | ACL'25 | ![](https://img.shields.io/badge/Model%20Extraction-blue) ![](https://img.shields.io/badge/RL-green) | Proposes an RL-based model extraction attack tailored for alignment-aware LLMs. |
 | 🕵️‍♂️ [**PromptExtractionEval**](https://github.com/liangzid/PromptExtractionEval) | Preprint | ![](https://img.shields.io/badge/Prompt%20Leakage-yellow) ![](https://img.shields.io/badge/Evaluation-lightgrey) | Analyzes why your prompts get leaked and proposes practical defenses. |
