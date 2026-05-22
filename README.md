@@ -30,6 +30,7 @@
 
 | Project | Venue | Tags | Description |
 |--------|--------|------|-------------|
+| [**Mobius Injection**](https://github.com/liangzid/MobiusInjection) | Preprint'26| "Prompt Injection" "DDos Attack" "Agent Security" | To Poison Agents as Zombie Nodes for the DDoS Attacks of AI Infrastructures |
 | [**ArxivRollBench**](https://github.com/liangzid/ArxivRoll) | AAAI'26 | ![](https://img.shields.io/badge/Benchmark-red) ![](https://img.shields.io/badge/Evaluation-lightgrey) |  A [benchmark](https://arxivroll.moreoverai.com) that quantifies how much of a model’s score is genuine versus “cheating” via data artifacts or shortcuts. |
 | [VIA (VirusInfectionAttack)](https://github.com/liangzid/VirusInfectionAttack) | NeurIPS'25 Spotlight |  ![](https://img.shields.io/badge/Synthetic%20Data-red) ![](https://img.shields.io/badge/Poisoning-red) | An Analysis of Synthetic-Data-Based Training's Security.|
 | 🚨 [**LoRA-sSecurity**](https://github.com/liangzid/LoRA-sSecurity) | ICML'25 | ![](https://img.shields.io/badge/LoRA-red) ![](https://img.shields.io/badge/Attack-orange) | Explores vulnerabilities introduced by LoRA-based fine-tuning, proposing both theoretical analysis and practical attacks. |
