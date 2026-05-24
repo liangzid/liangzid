@@ -30,8 +30,8 @@
 
 | Project | Venue | Tags | Description |
 |--------|--------|------|-------------|
-| 🧟 [**Mobius Injection**](https://arxiv.org/abs/2605.11442) / [code](https://github.com/liangzid/MobiusInjection) | Preprint'26| "Prompt Injection" "DDos Attack" "Agent Security" | To Poison Agents as Zombie Nodes for the DDoS Attacks of AI Infrastructures |
-| 🎯 [**DPS**](https://arxiv.org/abs/2510.03271) / [code](https://github.com/liangzid/DPS) | Preprint'26| "Decision Boundary" "LLM Theory" "Approximation" | A practical approximation of LLM decision boundaries via Decision Potential Surface, with theoretical error bounds. |
+| 🧟 [**Mobius Injection**](https://arxiv.org/abs/2605.11442) / [code](https://github.com/liangzid/MobiusInjection) | Preprint'26| ![](https://img.shields.io/badge/Prompt%20Injection-yellow) ![](https://img.shields.io/badge/DDos%20Attack-red) ![](https://img.shields.io/badge/Agent%20Security-orange) | To Poison Agents as Zombie Nodes for the DDoS Attacks of AI Infrastructures |
+| 🎯 [**DPS**](https://arxiv.org/abs/2510.03271) / [code](https://github.com/liangzid/DPS) | Preprint'26| ![](https://img.shields.io/badge/Decision%20Boundary-blue) ![](https://img.shields.io/badge/LLM%20Theory-purple) ![](https://img.shields.io/badge/Approximation-green) | A practical approximation of LLM decision boundaries via Decision Potential Surface, with theoretical error bounds. |
 | [**ArxivRollBench**](https://github.com/liangzid/ArxivRoll) | AAAI'26 | ![](https://img.shields.io/badge/Benchmark-red) ![](https://img.shields.io/badge/Evaluation-lightgrey) |  A [benchmark](https://arxivroll.moreoverai.com) that quantifies how much of a model’s score is genuine versus “cheating” via data artifacts or shortcuts. |
 | [VIA (VirusInfectionAttack)](https://github.com/liangzid/VirusInfectionAttack) | NeurIPS'25 Spotlight |  ![](https://img.shields.io/badge/Synthetic%20Data-red) ![](https://img.shields.io/badge/Poisoning-red) | An Analysis of Synthetic-Data-Based Training's Security.|
 | 🚨 [**LoRA-sSecurity**](https://github.com/liangzid/LoRA-sSecurity) | ICML'25 | ![](https://img.shields.io/badge/LoRA-red) ![](https://img.shields.io/badge/Attack-orange) | Explores vulnerabilities introduced by LoRA-based fine-tuning, proposing both theoretical analysis and practical attacks. |
@@ -56,12 +56,6 @@
 ---
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liangzid&show_icons=true&theme=tokyonight" width="48%" />
-  
-
----
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=liangzid&theme=tokyonight" width="48%" />
