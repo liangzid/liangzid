@@ -30,7 +30,8 @@
 
 | Project | Venue | Tags | Description |
 |--------|--------|------|-------------|
-| [**Mobius Injection**](https://github.com/liangzid/MobiusInjection) | Preprint'26| "Prompt Injection" "DDos Attack" "Agent Security" | To Poison Agents as Zombie Nodes for the DDoS Attacks of AI Infrastructures |
+| 🧟 [**Mobius Injection**](https://arxiv.org/abs/2605.11442) / [code](https://github.com/liangzid/MobiusInjection) | Preprint'26| "Prompt Injection" "DDos Attack" "Agent Security" | To Poison Agents as Zombie Nodes for the DDoS Attacks of AI Infrastructures |
+| 🎯 [**DPS**](https://arxiv.org/abs/2510.03271) / [code](https://github.com/liangzid/DPS) | Preprint'26| "Decision Boundary" "LLM Theory" "Approximation" | A practical approximation of LLM decision boundaries via Decision Potential Surface, with theoretical error bounds. |
 | [**ArxivRollBench**](https://github.com/liangzid/ArxivRoll) | AAAI'26 | ![](https://img.shields.io/badge/Benchmark-red) ![](https://img.shields.io/badge/Evaluation-lightgrey) |  A [benchmark](https://arxivroll.moreoverai.com) that quantifies how much of a model’s score is genuine versus “cheating” via data artifacts or shortcuts. |
 | [VIA (VirusInfectionAttack)](https://github.com/liangzid/VirusInfectionAttack) | NeurIPS'25 Spotlight |  ![](https://img.shields.io/badge/Synthetic%20Data-red) ![](https://img.shields.io/badge/Poisoning-red) | An Analysis of Synthetic-Data-Based Training's Security.|
 | 🚨 [**LoRA-sSecurity**](https://github.com/liangzid/LoRA-sSecurity) | ICML'25 | ![](https://img.shields.io/badge/LoRA-red) ![](https://img.shields.io/badge/Attack-orange) | Explores vulnerabilities introduced by LoRA-based fine-tuning, proposing both theoretical analysis and practical attacks. |
@@ -45,6 +46,8 @@
 
 | Project | Description |
 |--------|-------------|
+| 🛡️ [**GemFilter**](https://github.com/liangzid/GemFilter) | Filter and sanitize sensitive data (API tokens, passwords, emails, etc.) before sending them into Agents or LLM APIs. |
+| ❄️ [**NixConfig**](https://github.com/liangzid/NixConfig) | Personal NixOS configurations for reproducible development environments. |
 | 🧪 [**zhouyi**](https://github.com/liangzid/zhouyi) | A playful and philosophical implementation of divination using the ancient Chinese classic *Zhouyi* (易经). Reflects a blend of symbolic computation, randomness, and interpretation. |
 | 🔧 [**easy-collections**](https://github.com/liangzid/easy-collections) | A light-weight emacs package that encourages you to collect any fragmented important information in emacs (e.g., codes, paragraphs, outputs in terminal, and any others) into a single file. It is light-weight, quick, and non-interruptible.  |
 |[**.emacs.d**](https://github.com/liangzid/a.emacs.d)| My Emacs Configuration|
